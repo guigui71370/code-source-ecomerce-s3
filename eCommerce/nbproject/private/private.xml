@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Group 20171027-02:02:16">
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/view/modele/description.php</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/controller/ControllerModele.php</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/view/utilisateur/update.php</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/model/ModelMarque.php</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/controller/ControllerUtilisateur.php</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/model/ModelModele.php</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/model/Model.php</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/view/accueil/accueil.php</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/view/utilisateur/updated.php</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/view/modele/error.php</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/controller/ControllerAccueil.php</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/view/utilisateur/list.php</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/model/ModelUtilisateur.php</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/controller/ControlerMarque.php</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/view/panier/ajout.php</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/view/utilisateur/conected.php</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/view/utilisateur/error.php</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/model/ModelSymbole.php</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/view/panier/list.php</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/view/error/error.php</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/controller/routeur.php</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/view/modele/list.php</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/BDD</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/view/utilisateur/detail.php</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/view/view.php</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/model/ModelPanier.php</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/view/marque/error.php</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/model/Modelmarque.php</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/model/Modelmodele.php</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/assets/css/style.css</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/controller/ControllerMarque.php</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/view/utilisateur/created.php</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/controller/ControllerSymbole.php</file>
+            <file>file:/home/ann2/decarvalhog/public_html/eCommerce/controller/ControllerPanier.php</file>
+        </group>
+    </open-files>
+</project-private>
